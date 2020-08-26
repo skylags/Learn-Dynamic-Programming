@@ -2,6 +2,7 @@
 Dynamic Programming Standard Problems.
 
 Follow Standard DP Problems in the following order, you'll find almost all of them similar,
+
 1. 0/1 KnapSack Problem.
 2. Subset Sum Problem.
 3. Equal Sum Partition Problem.
@@ -16,6 +17,7 @@ Follow Standard DP Problems in the following order, you'll find almost all of th
 
 Some basic DP Problems based on Longest Common Subsequence(LCS) :
 Consider X and Y as two strings whose lengths are m & n respectively,
+
 0. Longest Common Subsequence(Length and printing it both)
 1. Shortest Common SuperSequence : It's nothing but SCS(X,Y) = (m+n-LCS(X,Y)).
 SCS means a shortest sequence containing both strings X & Y.
