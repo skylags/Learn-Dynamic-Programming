@@ -103,7 +103,7 @@ void printLCS(string X,string Y, int n,int m)
         }
         else
         {
-            //choose between (i-1,j) and (i,j-1)
+            //choose between (i-1,j) and (i,j-1) 
             if(dp[i-1][j] > dp[i][j-1])
             {
                 i--;
