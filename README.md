@@ -1,8 +1,22 @@
 # Learn-Dynamic-Programming
 Dynamic Programming Standard Problems.
 
+Follow Standard DP Problems in the following order, you'll find almost all of them similar,
+1. 0/1 KnapSack Problem.
+2. Subset Sum Problem.
+3. Equal Sum Partition Problem.
+4. Count of Subset with given sum.
+5. Minimum Subset Sum Difference Problem.
+6. Count number of subsets sum with given difference.
+7. Target Sum Problem.(Same as 6).
+8. Unbounded KnapSack Problem.
+9. Rod Cutting Problem.
+10. Coin Change Problem(Max No of Ways).
+11. Coin Change Problem(Min No of Coins).
+
 Some basic DP Problems based on Longest Common Subsequence(LCS) :
 Consider X and Y as two strings whose lengths are m & n respectively,
+0. Longest Common Subsequence(Length and printing it both)
 1. Shortest Common SuperSequence : It's nothing but SCS(X,Y) = (m+n-LCS(X,Y)).
 SCS means a shortest sequence containing both strings X & Y.
 2. Minimum No of Insertion & Deletion to convert A->B : Let m > n then, Delete Operations = m-LCS(X,Y) and Insert Operations = n-(LCS(X,Y).
