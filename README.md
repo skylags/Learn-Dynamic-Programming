@@ -27,3 +27,6 @@ SCS means a shortest sequence containing both strings X & Y.
 5. Printing SCS - Similar to printing LCS as discussed above with some minute code variations.
 6. Longest Repeating Subsequence : Here, the whole subsequence must repeat in the string. We just add a condition where current indexes shouldn't be equal. The code remains same as in LCS.
 7. Sequence Pattern Matching : Here, we just check if size of pattern equals LCS of both the strings.
+## DP tutorials and Problem lists
+The link below contains links to various DP Learning Resources, You Tube Tutorials, DP related Contests and various typed of DP Problems and link to solve them.<br>
+https://codeforces.com/blog/entry/67679
